@@ -2,15 +2,16 @@ CLASSIFICATION AND PREDICTION OF PHISHING WEBSITES
 
 This project helps to identify whether a website is phishing website or not using the phishing website dataset. 
 
+DATASET LINK: 
+
+https://drive.google.com/open?id=1INjk9MQ-CiPlFzp2UA2Gr8yX2F_kR2xy8UQhWWcyQsI
+
 DATASET DESCRIPTION:
 
 •	Data set consists of 31 columns and 2456 rows of data
 •	Each attribute represents how the website can be phished.
 •	Of 31 columns, there are 30 feature and 1 class vector.
 
-DATASET LINK: 
-
-https://drive.google.com/open?id=1INjk9MQ-CiPlFzp2UA2Gr8yX2F_kR2xy8UQhWWcyQsI
 
 MODELS USED:
 
