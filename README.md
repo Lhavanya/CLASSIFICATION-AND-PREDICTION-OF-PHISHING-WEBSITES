@@ -8,6 +8,10 @@ DATASET DESCRIPTION:
 •	Each attribute represents how the website can be phished.
 •	Of 31 columns, there are 30 feature and 1 class vector.
 
+DATASET LINK: 
+
+https://drive.google.com/open?id=1INjk9MQ-CiPlFzp2UA2Gr8yX2F_kR2xy8UQhWWcyQsI
+
 MODELS USED:
 
 To classify and predict the phishing websites , I tried with two Models.
